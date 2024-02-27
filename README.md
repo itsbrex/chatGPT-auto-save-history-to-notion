@@ -1,5 +1,8 @@
 # **ChatGPT-Save-History**
 
+## TODO:
+Update the extension to adjust to latest changes in chatGPT UI.
+
 This is a Chrome extension that allows you to save your conversations with ChatGPT as a markdown file in your linked Notion database.
 
 **Chrome Store Link**: https://chrome.google.com/webstore/detail/chatgpt-save-history-to-n/ddjioimofpjakfcpimdlbicbljlmfbac
